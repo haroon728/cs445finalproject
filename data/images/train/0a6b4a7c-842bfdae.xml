@@ -1,0 +1,19 @@
+<annotation>
+    <folder>train</folder>
+    <filename>0a6b4a7c-842bfdae.jpg</filename>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>car</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>894</xmin>
+            <ymin>323</ymin>
+            <xmax>1278</xmax>
+            <ymax>578</ymax>
+        </bndbox>
+    </object>
+</annotation>
